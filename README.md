@@ -1,3 +1,7 @@
-# Wiki Page Race
+# Wiki Racer
 
-wiki    Hyperlinks      yang55,gilber12,clay7,perez7    Wiki Page Race
+Wiki Racer is a mobile app built using React Native for St. Olaf College's Mobile Application class.
+
+<img src="./media/menu.jpg" width=250>
+<img src="./media/modemenu.jpg" width=250>
+<img src="./media/wikipage.jpg" width=250>
